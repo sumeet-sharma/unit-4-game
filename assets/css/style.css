@@ -1,0 +1,69 @@
+body{
+    background-image: url("../images/background.png")
+}
+
+.header{
+    background-color: rgb(165, 101, 42);
+    color: white;
+    line-height: 80px;
+    width: 260px;
+    text-align: center;
+    margin: 10px;
+    font-size: xx-large;
+}
+
+.instructions{
+    background-color: rgb(222, 206, 135);
+    color: darkgreen;
+    width: 550px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.numberToMatch{
+    float: left;
+    height: 60px;
+    background-color: limegreen;
+    width: 150px;
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+    position: relative;
+    left: 10px;
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.winsAndLosses{
+    background-color: cyan;
+    margin-left: 170px;
+    margin-right: 1000px;
+    margin-top: 20px;
+    height: 70px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.gems{
+    clear: both;
+    margin: 10px;
+}
+
+.gemImage{
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+.userTotal{
+    background-color: mediumslateblue;
+    height: 80px;
+    margin: 10px;
+    width: 300px;
+    font-size: x-large;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
